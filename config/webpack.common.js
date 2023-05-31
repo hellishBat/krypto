@@ -32,6 +32,7 @@ module.exports = {
         use: ['@svgr/webpack'],
       },
       { test: /\.(woff(2)?|eot|ttf|otf)$/, type: 'asset/resource' },
+      { test: /\.mp4$/, type: 'asset/resource' },
       { test: /\.txt$/, type: 'asset/source' },
     ],
   },

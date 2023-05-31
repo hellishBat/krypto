@@ -1,9 +1,6 @@
+/** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: [
-    './src/pages/**/*.{js,ts,jsx,tsx}',
-    './src/layouts/**/*.{js,ts,jsx,tsx}',
-    './src/components/**/*.{js,jsx,ts,tsx}',
-  ],
+  content: ['./src/**/*.{js,ts,jsx,tsx}'],
   theme: {
     screens: {
       sm: '640px',
@@ -19,12 +16,18 @@ module.exports = {
     },
     extend: {
       colors: {
-        // custom colors
+        navy: '#160E33',
       },
-      fontFamily: {
-        // custom fonts
+      boxShadow: {
+        'glow-xs': '0px 0px 0.4rem rgba(239, 68, 68, 0.4)',
+        'glow-md': '0px 0px 3.125rem rgba(239, 68, 68, 0.4)',
+        'focus-sm': '0 0 0 0.188rem rgba(239, 68, 68, 0.5)',
       },
+      aspectRatio: {
+        '4/3': '4 / 3',
+        'vertical-video': '540 / 673',
+      },
+      fontFamily: { sans: ['Rubik', 'sans-serif'] },
     },
   },
-  plugins: [require('@tailwindcss/line-clamp')],
 }

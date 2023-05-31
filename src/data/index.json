@@ -1,0 +1,275 @@
+{
+  "navLinks": [
+    {
+      "to": "howToSection",
+      "label": "How it works"
+    },
+    {
+      "to": "cryptosSection",
+      "label": "Cryptos"
+    },
+    {
+      "to": "featuresSection",
+      "label": "Features"
+    },
+    {
+      "to": "testimonialsSection",
+      "label": "Testimonials"
+    },
+    {
+      "to": "uniSection",
+      "label": "University"
+    }
+  ],
+  "hero": {
+    "headingLine1": "Next Generation",
+    "headingLine2": "Crypto Trading",
+    "tagLine": "Crypto Market Starts in",
+    "completedTagline": "Discover the power of next-generation crypto trading. Tap into advanced features and technologies designed to maximize your potential and elevate your trading experience!",
+    "countdown": {
+      "targetDate": "2023-07-04",
+      "display": [
+        { "text": "days" },
+        { "text": "hours" },
+        { "text": "minutes" },
+        { "text": "seconds" }
+      ]
+    },
+    "buttons": [{ "text": "Download App" }, { "text": "Trade Crypto" }],
+    "currencies": {
+      "heading": "We accept",
+      "list": [
+        { "href": "https://bitcoin.org/en/", "label": "Bitcoin" },
+        { "href": "https://litecoin.org/", "label": "Litecoin" },
+        { "href": "https://chain.link/", "label": "Chainlink" },
+        { "href": "https://sia.tech/", "label": "Siacoin" }
+      ]
+    }
+  },
+  "howTo": {
+    "heading": "How to Trade With Krypto",
+    "paragraph": "Becoming a cryptotrader on our platform has never been easier!",
+    "subheading": "Steps to trade",
+    "tabs": [
+      {
+        "btnText": "Create an account"
+      },
+      {
+        "btnText": "Download platform"
+      },
+      {
+        "btnText": "Select crypto"
+      },
+      {
+        "btnText": "Start trading"
+      }
+    ]
+  },
+  "cryptos": {
+    "heading": "Available Cryptos",
+    "paragraph": "Check out our cryptocurrency offerings and current exchange rates",
+    "items": [
+      {
+        "title": "Bitcoin",
+        "text": "A very accessible and versatile currency with big liquidity and high return potential. ",
+        "btnText": "Trade now"
+      },
+      {
+        "title": "Ethereum",
+        "text": "A secure, decentralized currency, second-most popular Crypto in the market.",
+        "btnText": "Trade now"
+      },
+      {
+        "title": "Litecoin",
+        "text": "Fast transitions, lower fees than other cryptocurrencies. Explosive returns are possible during uptrends.",
+        "btnText": "Trade now"
+      },
+      {
+        "title": "Tezos",
+        "text": "Self-amending multi-purpose blockchain platform for secure decentralized transactions.",
+        "btnText": "Trade now"
+      },
+      {
+        "title": "Cardano",
+        "text": "An environmentally friendly currency with low fees for fast and secure decentralized transactions.",
+        "btnText": "Trade now"
+      },
+      {
+        "title": "Dogecoin",
+        "text": "Send value quick and securely to anyone internally, accepted by many vendors. Perfectly fits for low-capital investments.",
+        "btnText": "Trade now"
+      }
+    ]
+  },
+  "features": {
+    "heading": "Attractive Features",
+    "paragraph": "Our key features that set the standard in the industry and are so well appreciated by our users.",
+    "items": [
+      {
+        "title": "Weekly Trading Contest",
+        "description": "Every week, 5 winners will earn real cash prizes. Trade and win with Krypto platform!"
+      },
+      {
+        "title": "Less Commission On Trade",
+        "description": "Millions of Krypto platform users enjoy the lowest commissions in the industry!"
+      },
+      {
+        "title": "Safe and Secure Trading platform",
+        "description": "We use the latest blockchain technology to protect your transactions."
+      },
+      {
+        "title": "Instant Withdraw Process",
+        "description": "You can always withdraw funds from your account quickly and safely."
+      },
+      {
+        "title": "Monthly Bonuses and Promotions",
+        "description": "Our users get nice monthly bonuses and hot promotional offers."
+      },
+      {
+        "title": "24/7 Support Team",
+        "description": "Any questions or suggestions? You can contact our professionals at any time of the day or night."
+      }
+    ]
+  },
+  "downloads": { "heading": "Most advanced crypto trading platform ever!" },
+  "testimonials": {
+    "heading": "30 Million Users Worldwide",
+    "paragraph": "Still haven't made up your mind? See what our users are saying about us!",
+    "items": [
+      {
+        "text": "Withdrawal to any account or bank card is very easy in Krypto.",
+        "author": "Cameron Williamson",
+        "position": "FX Trader"
+      },
+      {
+        "text": "I pumped up my investment portfolio in a year, and at that time I started with Krypto.",
+        "author": "Bessie Cooper",
+        "position": "Stock Manager"
+      },
+      {
+        "text": "Very low transaction fees and a wide range of currencies for investments.",
+        "author": "Albert Flores",
+        "position": "Crypto Analyst"
+      },
+      {
+        "text": "For last year with Krypto, I have made many trades and received nice bonuses.",
+        "author": "Matthew Foster",
+        "position": "Crypto Research Analyst"
+      },
+      {
+        "text": "With the mobile app, I'm aware of everything that's going on in the market.",
+        "author": "Eric Jones",
+        "position": "Customer Service Agent"
+      },
+      {
+        "text": "I can see handy analytics and predict my investment strategy accordingly.",
+        "author": "David O'Gallagher",
+        "position": "Research Analyst"
+      }
+    ]
+  },
+  "university": {
+    "heading": "Crypto Market Analysis",
+    "paragraph": "Stay on top of current trends and improve your skills at the Krypto University!",
+    "items": [
+      {
+        "title": "How to trade Bitcoin",
+        "text": "What is bitcoin? How to choose the best deal? In this article, you will learn everything you need to get started.",
+        "href": "#",
+        "linkText": "Learn more"
+      },
+      {
+        "title": "Gain the best exchange",
+        "text": "How to choose the best course? Current interviews with traders and analysts.",
+        "href": "#",
+        "linkText": "Learn more"
+      },
+      {
+        "title": "Reduce your loosing",
+        "text": "Learn how to minimize risks and reduce losses in future investments. The best reliable strategies",
+        "href": "#",
+        "linkText": "Learn more"
+      },
+      {
+        "title": "Win 50-50 trading strategy",
+        "text": "Futures live in a 50/50 world that requires successful traders to change the odds just a few percentage points in their favor.",
+        "href": "#",
+        "linkText": "Learn more"
+      }
+    ],
+    "btnText": "Enroll crypto university"
+  },
+  "footer": {
+    "text": "Krypto is a global secure cryptocurrency trading platform. Contact our support team for more information.",
+    "anchors": {
+      "heading": "Links",
+      "links": [
+        {
+          "to": "howToSection",
+          "label": "How it works"
+        },
+        {
+          "to": "cryptosSection",
+          "label": "Cryptos"
+        },
+        {
+          "to": "featuresSection",
+          "label": "Features"
+        },
+        {
+          "to": "testimonialsSection",
+          "label": "Testimonials"
+        },
+        {
+          "to": "uniSection",
+          "label": "University"
+        }
+      ]
+    },
+    "legal": {
+      "heading": "Legal",
+      "links": [
+        {
+          "href": "#",
+          "label": "Terms of use"
+        },
+        {
+          "href": "#",
+          "label": "Terms of conditions"
+        },
+        {
+          "href": "#",
+          "label": "Privacy policy"
+        },
+        {
+          "href": "#",
+          "label": "Cookie policy"
+        }
+      ]
+    },
+    "newsletter": {
+      "heading": "Newsletter",
+      "subheading": "Over 25000 people have subscribed",
+      "text": "We don’t sell your email and spam"
+    },
+    "credits": {
+      "links": [
+        {
+          "href": "#",
+          "label": "Privacy & Terms"
+        },
+        {
+          "href": "#",
+          "label": "Contact Us"
+        }
+      ]
+    },
+    "copyright": {
+      "text": ["Design by xpence, coded with", "by ", "Valentine Samoylov"],
+      "link": "https://valentine-samoylov.vercel.app/"
+    },
+    "social": {
+      "links": [{ "href": "#" }, { "href": "#" }, { "href": "#" }, { "href": "#" }]
+    }
+  }
+}

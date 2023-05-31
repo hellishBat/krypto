@@ -1,0 +1,2 @@
+// UniversityComponents
+export * from './UniversityCard'
