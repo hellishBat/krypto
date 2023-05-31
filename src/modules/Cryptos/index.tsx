@@ -83,7 +83,7 @@ const Cryptos: React.FC = () => {
             spaceBetween={32}
             slidesPerView={'auto'}
             centeredSlides={true}
-            loop={true}
+            loop={false}
             keyboard={{
               enabled: true,
             }}
