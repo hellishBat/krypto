@@ -2,7 +2,7 @@
 import ContextProviders from '@/context/ContextProviders'
 import Layout from '@/layouts'
 import Hero from '@/modules/Hero'
-// import HowTo from '@/modules/HowTo'
+import HowTo from '@/modules/HowTo'
 import Cryptos from '@/modules/Cryptos'
 import Features from '@/modules/Features'
 import Downloads from '@/modules/Downloads'
@@ -14,7 +14,7 @@ const Home = () => {
     <ContextProviders>
       <Layout>
         <Hero />
-        {/* <HowTo /> */}
+        <HowTo />
         <Cryptos />
         <Features />
         <Downloads />
