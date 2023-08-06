@@ -26,7 +26,7 @@ export const HowToTabs: React.FC<HowToTabsProps> = ({ data, subheading }) => {
                 <Tab as={Fragment}>
                   {({ selected }) => (
                     <button
-                      className={`counter-item flex min-w-[18rem] cursor-pointer items-center overflow-hidden rounded-[5rem] border-none py-[1.188rem] pl-16 pr-14 text-lg font-medium text-red-500 transition lg:will-change-transform lg:hover:scale-105 lg:hover:shadow-glow-md lg:focus:outline-none lg:focus:ring-2 lg:focus:ring-red-500/40 lg:active:bg-black/10 ${
+                      className={`counter-item flex min-w-[18rem] cursor-pointer items-center overflow-hidden rounded-[5rem] border-none py-[1.125rem] pl-16 pr-14 text-lg font-medium text-red-500 transition lg:will-change-transform lg:hover:scale-105 lg:hover:shadow-glow-md lg:focus:outline-none lg:focus:ring-2 lg:focus:ring-red-500/40 lg:active:bg-black/10 ${
                         selected ? 'shadow-glow-md' : 'shadow-glow-xs'
                       }`}
                     >

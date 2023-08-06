@@ -1,6 +1,6 @@
 # Krypto Trading
 
-![Imgur](https://i.imgur.com/2IBNPPj.png)
+![Imgur](https://i.imgur.com/26DOEIq.png)
 
 ## Features
 
